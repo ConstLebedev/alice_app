@@ -10,7 +10,7 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.INFO)
 
 cities = {
-    'амстердам': ['1030494/490305b6bd5d32c6f31c'],
+    'амстердам': ['1030494/490305b6bd5d32c6f31c', '213044/54caf4c99135090e2fa0'],
     'венеция': ['965417/14f76ca9af855d1bc7d3', '213044/2782fc44a82e7565a04b'],
     'санкт-петербург': ['937455/8bcee0cdbead4fb6300b', '1540737/6eb374972018af13e1f2']
 }
